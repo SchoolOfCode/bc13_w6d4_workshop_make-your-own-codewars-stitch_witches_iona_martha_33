@@ -36,5 +36,5 @@ else if (size === "L"){
 else if (size === "XL"){
     let weight = 1200
 } 
-
+let cat =
 }
